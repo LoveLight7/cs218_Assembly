@@ -1,0 +1,22 @@
+
+bVar1		db	45
+bVar2		db	16
+bAns1		db	0
+bAns2		db	0
+wVar1		dw	5436
+wVar2		dw	3816
+wAns1		dw	0
+wAns2		dw	0
+dVar1		dd	249521376
+dVar2		dd	102727691
+dVar3		dd	-532456
+dAns1		dd	0
+dAns2		dd	0
+flt1		dd	8.25
+flt2		dd	-15.625
+pi		dd	3.14159
+qVar1		dq	214578927150
+myClass	db	"CS 218", NULL
+edName	db	"Ed Jorgensen", NULL
+myName	db	"your name goes here", NULL
+
